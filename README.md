@@ -8,3 +8,5 @@ The plan I’ll be sharing may take me more or less time than initially expected
 On the other hand, when I’m about halfway through this journey, I plan to focus heavily on programming as well. While my main professional interest lies in the DevOps path, for entrepreneurship it’s obvious that you need the ability to create things from scratch.
 
 That said, I hope this introduction is valuable for you to learn something useful, and for me, it will serve as a real commitment to walk this path.
+
+P.S.: I’m from Spain, so I will try to translate everything I can. However, for my own understanding, many of the technologies will remain in Spanish. Still, as I mentioned before, I will share everything I can in both languages whenever possible
